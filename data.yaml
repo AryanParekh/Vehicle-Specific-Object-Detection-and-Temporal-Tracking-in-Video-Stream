@@ -1,0 +1,19 @@
+
+
+path: C:\Users\User\Desktop\Aryan\Western University Work\9542\Project\yolov8_data
+train: C:\Users\User\Desktop\Aryan\Western University Work\9542\Project\yolov8_data\train\images  
+val: C:\Users\User\Desktop\Aryan\Western University Work\9542\Project\yolov8_data\valid\images  
+test: C:\Users\User\Desktop\Aryan\Western University Work\9542\Project\yolov8_data\test\images 
+
+# Classes
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: --
+  5: bus
+  6: train
+  7: truck
+  8: --
+  9: traffic light
